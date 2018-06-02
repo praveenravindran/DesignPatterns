@@ -1,4 +1,4 @@
-package RecursiveGenericsBuilderPattern;
+package recursiveGenericsBuilderPattern;
 
 
 class RecursiveGenericsDemo

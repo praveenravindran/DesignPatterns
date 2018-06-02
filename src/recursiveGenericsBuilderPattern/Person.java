@@ -1,4 +1,4 @@
-package RecursiveGenericsBuilderPattern;
+package recursiveGenericsBuilderPattern;
 
 public class Person
 {
