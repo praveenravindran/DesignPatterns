@@ -1,6 +1,8 @@
 package prototypePattern;
 
-public class Address implements Cloneable{
+import java.io.Serializable;
+
+public class Address implements Cloneable, Serializable{
     public String streetName;
     public Integer houseNumber;
 

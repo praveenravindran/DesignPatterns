@@ -12,7 +12,7 @@ public class Demo {
 
         Person person = new PersonFactory().createPerson("Praveen");
         System.out.println("Person is " + person.name + " and id is " +  person.id);
-        Person person2 = new PersonFactory().createPerson("Raskhni");
+        Person person2 = new PersonFactory().createPerson("Rakshni");
         System.out.println("Person is " + person2.name + " and id is " +  person2.id);
     }
 }

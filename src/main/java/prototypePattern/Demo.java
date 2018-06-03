@@ -1,6 +1,7 @@
 package prototypePattern;
 
 
+import org.apache.commons.lang3.SerializationUtils;
 
 public class Demo {
 
@@ -23,6 +24,13 @@ public class Demo {
         jimmy.name = "Jimmy";
         jimmy.address.houseNumber = 103;
         System.out.println("Created with copy construcyor  " + jimmy);
-        
+
+        System.out.println("");
+
+        //Example with Serializer
+        Employee johnny = SerializationUtils.roundtrip(jack);
+        johnny.name = "Johnny";
+        System.out.println("Original " + jack);
+        System.out.println("Created wiht Serializer " + johnny);
     }
 }
