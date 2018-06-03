@@ -1,6 +1,6 @@
 package recursiveGenericsBuilderPattern;
 
-public class EmployeeBuilder extends PersonBuilder<EmployeeBuilder>
+public class EmployeeBuilder extends recursiveGenericsBuilderPattern.PersonBuilder<EmployeeBuilder>
 {
     public EmployeeBuilder worksAs(String position)
     {
