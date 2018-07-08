@@ -2,37 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="221150b9-8051-4523-9e56-45095fd2b03b" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/chainOfResponsibility/AttackModifier.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/chainOfResponsibility/Creature.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/chainOfResponsibility/CreatureModifier.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/chainOfResponsibility/DefenseModifier.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/chainOfResponsibility/Demo.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/chainOfResponsibility/Event.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/chainOfResponsibility/Game.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/chainOfResponsibility/NoModifier.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/chainOfResponsibility/Query.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/command/BankAccount.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/command/BankAccountCommand.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/command/Command.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/command/Demo.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/memento/BankAccount.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/memento/Demo.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/memento/Memento.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/observer/Demo.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/observer/Event.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/observer/Observable.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/observer/Observer.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/observer/Person.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/observer/PropertyChangedEventArgs.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/observer/Student.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/visitorPattern/AdditionExpression.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/visitorPattern/Demo.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/visitorPattern/DoubleExpression.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/visitorPattern/Expression.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/visitorPattern/ExpressionCalculator.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/visitorPattern/ExpressionPrinter.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/visitorPattern/ExpressionVisitor.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxjava2_rxjava_2_1_16.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/mediator/ChatRoom.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/mediator/ChatRoomDemo.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/mediator/EventBroker.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/mediator/FootballCoach.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/mediator/FootballPlayer.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/mediator/Person.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/mediator/RxEventBrokerDemo.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/DesignPatterns.iml" afterPath="$PROJECT_DIR$/DesignPatterns.iml" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -45,48 +26,133 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Creature.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/chainOfResponsibility/Creature.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="33">
-              <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AttackModifier.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/chainOfResponsibility/AttackModifier.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-149">
-              <caret line="5" column="22" lean-forward="true" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
-              <folding>
-                <element signature="e#183#184#0" expanded="true" />
-                <element signature="e#214#215#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Demo.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Demo.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/chainOfResponsibility/Demo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="271">
-              <caret line="34" column="0" lean-forward="true" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+            <state relative-caret-position="141">
+              <caret line="21" column="68" lean-forward="false" selection-start-line="21" selection-start-column="68" selection-end-line="21" selection-end-column="68" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DefenseModifier.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/chainOfResponsibility/DefenseModifier.java">
+      <file leaf-file-name="Person.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/mediator/Person.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="8" column="51" lean-forward="false" selection-start-line="8" selection-start-column="51" selection-end-line="8" selection-end-column="51" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#231#232#0" expanded="true" />
+                <element signature="e#263#264#0" expanded="true" />
+                <element signature="e#536#537#0" expanded="true" />
+                <element signature="e#592#593#0" expanded="true" />
+                <element signature="e#630#631#0" expanded="true" />
+                <element signature="e#675#676#0" expanded="true" />
+                <element signature="e#706#707#0" expanded="true" />
+                <element signature="e#733#734#0" expanded="true" />
+                <element signature="e#773#774#0" expanded="true" />
+                <element signature="e#805#806#0" expanded="true" />
+                <element signature="e#838#839#0" expanded="true" />
+                <element signature="e#865#866#0" expanded="true" />
+                <element signature="e#907#908#0" expanded="true" />
+                <element signature="e#939#940#0" expanded="true" />
+                <element signature="e#979#980#0" expanded="true" />
+                <element signature="e#1009#1010#0" expanded="true" />
+                <element signature="e#1061#1062#0" expanded="true" />
+                <element signature="e#1099#1100#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EventBroker.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/mediator/EventBroker.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" column="16" lean-forward="false" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#363#364#0" expanded="true" />
+                <element signature="e#402#403#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FootballPlayer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/mediator/FootballPlayer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="1" lean-forward="false" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+              <folding>
+                <element signature="e#287#288#0" expanded="true" />
+                <element signature="e#332#333#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FootballCoach.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/mediator/FootballCoach.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="1" lean-forward="false" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RxEventBrokerDemo.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/mediator/RxEventBrokerDemo.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="210">
-              <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+              <caret line="14" column="1" lean-forward="false" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Observer.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/io/reactivex/rxjava2/rxjava/2.1.16/rxjava-2.1.16.jar!/io/reactivex/Observer.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="13" column="9" lean-forward="false" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
               <folding>
-                <element signature="e#183#184#0" expanded="true" />
-                <element signature="e#214#215#0" expanded="true" />
+                <element signature="e#0#399#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="29" column="48" lean-forward="false" selection-start-line="29" selection-start-column="48" selection-end-line="29" selection-end-column="48" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ChatRoom.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/mediator/ChatRoom.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="316">
+              <caret line="26" column="16" lean-forward="false" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ChatRoomDemo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/mediator/ChatRoomDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" column="5" lean-forward="false" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -119,14 +185,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/flyweight/BetterFormattedText.java" />
-        <option value="$PROJECT_DIR$/src/main/java/flyweight/Demo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/proxy/Driveable.java" />
-        <option value="$PROJECT_DIR$/src/main/java/proxy/Car.java" />
-        <option value="$PROJECT_DIR$/src/main/java/proxy/Driver.java" />
-        <option value="$PROJECT_DIR$/src/main/java/proxy/CarProxy.java" />
-        <option value="$PROJECT_DIR$/src/main/java/proxy/Property.java" />
-        <option value="$PROJECT_DIR$/src/main/java/proxy/Creature.java" />
         <option value="$PROJECT_DIR$/src/main/java/proxy/Human.java" />
         <option value="$PROJECT_DIR$/src/main/java/proxy/Person.java" />
         <option value="$PROJECT_DIR$/src/main/java/proxy/Logging.java" />
@@ -170,6 +228,14 @@
         <option value="$PROJECT_DIR$/src/main/java/chainOfResponsibility/DefenseModifier.java" />
         <option value="$PROJECT_DIR$/src/main/java/chainOfResponsibility/Demo2.java" />
         <option value="$PROJECT_DIR$/src/main/java/chainOfResponsibility/Demo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mediator/ChatRoom.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mediator/ChatRoomDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mediator/Person.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/mediator/EventBroker.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mediator/FootballPlayer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mediator/FootballCoach.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mediator/RxEventBrokerDemo.java" />
       </list>
     </option>
   </component>
@@ -247,7 +313,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="chainOfResponsibility" type="462c0819:PsiDirectoryNode" />
+              <item name="mediator" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -264,13 +330,14 @@
     <property name="extract.method.default.visibility" value="private" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java" />
+    </key>
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="mediator" />
       <recent name="flyweight" />
       <recent name="compositePattern" />
       <recent name="LineToPointAdapter" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/main/java" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -285,21 +352,21 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Demo (2)">
+  <component name="RunManager" selected="Application.RxEventBrokerDemo">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
     </configuration>
-    <configuration name="Demo (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="ChatRoomDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="observer.*" />
+          <option name="PATTERN" value="mediator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="observer.Demo" />
+      <option name="MAIN_CLASS_NAME" value="mediator.ChatRoomDemo" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -371,25 +438,6 @@
     <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="prototypePattern.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="prototypePattern.Demo" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="DesignPatterns" />
-      <envs />
-    </configuration>
-    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
           <option name="PATTERN" value="abstractFactory.*" />
           <option name="ENABLED" value="true" />
         </pattern>
@@ -433,6 +481,25 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="visitorPattern.Demo" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="DesignPatterns" />
+      <envs />
+    </configuration>
+    <configuration name="RxEventBrokerDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="mediator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="mediator.RxEventBrokerDemo" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -519,19 +586,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Demo" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Demo (1)" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Demo (5)" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Demo (3)" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Demo (2)" />
+      <item index="0" class="java.lang.String" itemvalue="Application.Demo (5)" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Demo (3)" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Demo (2)" />
+      <item index="3" class="java.lang.String" itemvalue="Application.ChatRoomDemo" />
+      <item index="4" class="java.lang.String" itemvalue="Application.RxEventBrokerDemo" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Demo (2)" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Demo (3)" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Demo (5)" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Demo (1)" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Demo (1)" />
+        <item index="0" class="java.lang.String" itemvalue="Application.RxEventBrokerDemo" />
+        <item index="1" class="java.lang.String" itemvalue="Application.ChatRoomDemo" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Demo (2)" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Demo (3)" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Demo (5)" />
       </list>
     </recent_temporary>
   </component>
@@ -558,12 +625,12 @@
       <workItem from="1527217865555" duration="21457000" />
       <workItem from="1528002604487" duration="344000" />
       <workItem from="1528045281405" duration="29481000" />
-      <workItem from="1530592317432" duration="15578000" />
+      <workItem from="1530592317432" duration="17585000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="70085000" />
+    <option name="totallyTimeSpent" value="72092000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="83" y="56" width="1440" height="771" extended-state="0" />
@@ -731,94 +798,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/proxy/Car.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/proxy/Driver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="10" lean-forward="false" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/proxy/Property.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="167">
-          <caret line="12" column="21" lean-forward="true" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
-          <folding>
-            <element signature="e#121#122#0" expanded="false" />
-            <element signature="e#155#156#0" expanded="false" />
-            <element signature="e#182#183#0" expanded="false" />
-            <element signature="e#210#211#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/proxy/Human.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="17" lean-forward="false" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/proxy/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="34" lean-forward="false" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
-          <folding>
-            <element signature="e#91#92#0" expanded="false" />
-            <element signature="e#141#142#0" expanded="false" />
-            <element signature="e#181#182#0" expanded="false" />
-            <element signature="e#231#232#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/proxy/Logging.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
-          <caret line="26" column="43" lean-forward="false" selection-start-line="26" selection-start-column="43" selection-end-line="26" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/lang/reflect/Proxy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="761">
-          <caret line="702" column="25" lean-forward="false" selection-start-line="702" selection-start-column="25" selection-end-line="702" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/proxy/CarProxy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="13" column="48" lean-forward="false" selection-start-line="13" selection-start-column="48" selection-end-line="13" selection-end-column="48" />
-          <folding>
-            <element signature="e#87#88#0" expanded="false" />
-            <element signature="e#116#117#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/lang/Class.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9075">
-          <caret line="676" column="23" lean-forward="false" selection-start-line="676" selection-start-column="23" selection-end-line="676" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/proxy/Demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="22" lean-forward="false" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/chainOfResponsibility.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/proxy/Creature.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -858,16 +837,16 @@
         <state relative-caret-position="210">
           <caret line="21" column="15" lean-forward="true" selection-start-line="21" selection-start-column="15" selection-end-line="23" selection-end-column="20" />
           <folding>
-            <element signature="e#144#145#0" expanded="true" />
-            <element signature="e#178#179#0" expanded="true" />
-            <element signature="e#228#229#0" expanded="true" />
-            <element signature="e#259#260#0" expanded="true" />
-            <element signature="e#326#327#0" expanded="true" />
-            <element signature="e#361#362#0" expanded="true" />
-            <element signature="e#538#539#0" expanded="true" />
-            <element signature="e#566#567#0" expanded="true" />
-            <element signature="e#608#609#0" expanded="true" />
-            <element signature="e#642#643#0" expanded="true" />
+            <element signature="e#144#145#0" expanded="false" />
+            <element signature="e#178#179#0" expanded="false" />
+            <element signature="e#228#229#0" expanded="false" />
+            <element signature="e#259#260#0" expanded="false" />
+            <element signature="e#326#327#0" expanded="false" />
+            <element signature="e#361#362#0" expanded="false" />
+            <element signature="e#538#539#0" expanded="false" />
+            <element signature="e#566#567#0" expanded="false" />
+            <element signature="e#608#609#0" expanded="false" />
+            <element signature="e#642#643#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -898,16 +877,16 @@
         <state relative-caret-position="266">
           <caret line="39" column="21" lean-forward="false" selection-start-line="39" selection-start-column="16" selection-end-line="39" selection-end-column="21" />
           <folding>
-            <element signature="e#298#299#0" expanded="true" />
-            <element signature="e#325#326#0" expanded="true" />
-            <element signature="e#369#370#0" expanded="true" />
-            <element signature="e#401#402#0" expanded="true" />
-            <element signature="e#437#438#0" expanded="true" />
-            <element signature="e#465#466#0" expanded="true" />
-            <element signature="e#511#512#0" expanded="true" />
-            <element signature="e#545#546#0" expanded="true" />
-            <element signature="e#784#785#0" expanded="true" />
-            <element signature="e#819#820#0" expanded="true" />
+            <element signature="e#298#299#0" expanded="false" />
+            <element signature="e#325#326#0" expanded="false" />
+            <element signature="e#369#370#0" expanded="false" />
+            <element signature="e#401#402#0" expanded="false" />
+            <element signature="e#437#438#0" expanded="false" />
+            <element signature="e#465#466#0" expanded="false" />
+            <element signature="e#511#512#0" expanded="false" />
+            <element signature="e#545#546#0" expanded="false" />
+            <element signature="e#784#785#0" expanded="false" />
+            <element signature="e#819#820#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1028,8 +1007,8 @@
         <state relative-caret-position="45">
           <caret line="3" column="20" lean-forward="true" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
           <folding>
-            <element signature="e#114#115#0" expanded="true" />
-            <element signature="e#140#141#0" expanded="true" />
+            <element signature="e#114#115#0" expanded="false" />
+            <element signature="e#140#141#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1050,9 +1029,9 @@
         <state relative-caret-position="135">
           <caret line="9" column="29" lean-forward="false" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
           <folding>
-            <element signature="e#99#100#0" expanded="true" />
-            <element signature="e#137#138#0" expanded="true" />
-            <element signature="e#198#199#0" expanded="true" />
+            <element signature="e#99#100#0" expanded="false" />
+            <element signature="e#137#138#0" expanded="false" />
+            <element signature="e#198#199#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1078,8 +1057,8 @@
         <state relative-caret-position="240">
           <caret line="16" column="74" lean-forward="false" selection-start-line="16" selection-start-column="74" selection-end-line="16" selection-end-column="74" />
           <folding>
-            <element signature="e#165#166#0" expanded="true" />
-            <element signature="e#191#192#0" expanded="true" />
+            <element signature="e#165#166#0" expanded="false" />
+            <element signature="e#191#192#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1089,16 +1068,16 @@
         <state relative-caret-position="159">
           <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
           <folding>
-            <element signature="e#107#108#0" expanded="true" />
-            <element signature="e#145#146#0" expanded="true" />
-            <element signature="e#304#305#0" expanded="true" />
-            <element signature="e#355#356#0" expanded="true" />
-            <element signature="e#386#387#0" expanded="true" />
-            <element signature="e#416#417#0" expanded="true" />
-            <element signature="e#459#460#0" expanded="true" />
-            <element signature="e#497#498#0" expanded="true" />
-            <element signature="e#543#544#0" expanded="true" />
-            <element signature="e#589#590#0" expanded="true" />
+            <element signature="e#107#108#0" expanded="false" />
+            <element signature="e#145#146#0" expanded="false" />
+            <element signature="e#304#305#0" expanded="false" />
+            <element signature="e#355#356#0" expanded="false" />
+            <element signature="e#386#387#0" expanded="false" />
+            <element signature="e#416#417#0" expanded="false" />
+            <element signature="e#459#460#0" expanded="false" />
+            <element signature="e#497#498#0" expanded="false" />
+            <element signature="e#543#544#0" expanded="false" />
+            <element signature="e#589#590#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1124,8 +1103,8 @@
         <state relative-caret-position="160">
           <caret line="17" column="21" lean-forward="false" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
           <folding>
-            <element signature="e#589#590#0" expanded="true" />
-            <element signature="e#645#646#0" expanded="true" />
+            <element signature="e#589#590#0" expanded="false" />
+            <element signature="e#645#646#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1135,7 +1114,7 @@
         <state relative-caret-position="331">
           <caret line="28" column="38" lean-forward="false" selection-start-line="28" selection-start-column="38" selection-end-line="28" selection-end-column="38" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1169,9 +1148,9 @@
         <state relative-caret-position="250">
           <caret line="20" column="20" lean-forward="false" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="20" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#397#398#0" expanded="true" />
-            <element signature="e#433#434#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#397#398#0" expanded="false" />
+            <element signature="e#433#434#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1181,8 +1160,8 @@
         <state relative-caret-position="58">
           <caret line="7" column="11" lean-forward="false" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
           <folding>
-            <element signature="e#334#335#0" expanded="true" />
-            <element signature="e#374#375#0" expanded="true" />
+            <element signature="e#334#335#0" expanded="false" />
+            <element signature="e#374#375#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1209,7 +1188,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/chainOfResponsibility/AttackModifier.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-149">
-          <caret line="5" column="22" lean-forward="true" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+          <caret line="5" column="22" lean-forward="false" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
           <folding>
             <element signature="e#183#184#0" expanded="true" />
             <element signature="e#214#215#0" expanded="true" />
@@ -1217,10 +1196,121 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/mediator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/chainOfResponsibility/Demo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="271">
-          <caret line="34" column="0" lean-forward="true" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+        <state relative-caret-position="141">
+          <caret line="21" column="68" lean-forward="false" selection-start-line="21" selection-start-column="68" selection-end-line="21" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/mediator/ChatRoom.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="26" column="16" lean-forward="false" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="29" column="48" lean-forward="false" selection-start-line="29" selection-start-column="48" selection-end-line="29" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/mediator/ChatRoomDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="5" lean-forward="false" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/reactivex/rxjava2/rxjava/2.1.16/rxjava-2.1.16.jar!/io/reactivex/Observer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="13" column="9" lean-forward="false" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#399#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/mediator/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="8" column="51" lean-forward="false" selection-start-line="8" selection-start-column="51" selection-end-line="8" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#231#232#0" expanded="true" />
+            <element signature="e#263#264#0" expanded="true" />
+            <element signature="e#536#537#0" expanded="true" />
+            <element signature="e#592#593#0" expanded="true" />
+            <element signature="e#630#631#0" expanded="true" />
+            <element signature="e#675#676#0" expanded="true" />
+            <element signature="e#706#707#0" expanded="true" />
+            <element signature="e#733#734#0" expanded="true" />
+            <element signature="e#773#774#0" expanded="true" />
+            <element signature="e#805#806#0" expanded="true" />
+            <element signature="e#838#839#0" expanded="true" />
+            <element signature="e#865#866#0" expanded="true" />
+            <element signature="e#907#908#0" expanded="true" />
+            <element signature="e#939#940#0" expanded="true" />
+            <element signature="e#979#980#0" expanded="true" />
+            <element signature="e#1009#1010#0" expanded="true" />
+            <element signature="e#1061#1062#0" expanded="true" />
+            <element signature="e#1099#1100#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/mediator/EventBroker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="16" lean-forward="false" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#363#364#0" expanded="true" />
+            <element signature="e#402#403#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/mediator/FootballPlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="1" lean-forward="false" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+          <folding>
+            <element signature="e#287#288#0" expanded="true" />
+            <element signature="e#332#333#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/mediator/FootballCoach.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="1" lean-forward="false" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/mediator/RxEventBrokerDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="1" lean-forward="false" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
           <folding />
         </state>
       </provider>
